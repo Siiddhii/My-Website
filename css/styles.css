@@ -1,0 +1,110 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+}
+.top-container{
+    background-color: #eaf9f5;
+    position: relative;
+    padding-top: 7%; 
+    padding-bottom: 0px;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    margin-bottom: 0;
+    padding: 2%;
+    margin-top: 50px;
+}
+.pro{
+    //text-decoration: underline;
+}
+h1{
+    margin: 5px auto 5px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #11999E;
+}
+h2{
+    font-size: 1.5em;
+    color: #11999E;
+    font-weight: normal;
+}
+h3 {
+    color:#66BFBF ;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 400px;
+}
+.top-cloud {
+    position: absolute; 
+    right: 350px; 
+    top: 50px; 
+}
+.mountain {
+    margin-bottom: 0;
+    
+}
+.profile-picture {
+    border: solid black;
+    margin-top: 5%;
+}
+.doc-class-image {
+    border: solid black;
+    height: 200px;
+    width: 300px;
+}
+.education-image {
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+.projects-row {
+    width: 50%;
+    margin: 10px auto 70px auto;
+    padding-top: 20px;
+    text-align: left;
+}
+.education-row {
+    width: 50%;
+    margin: 10px auto 50px auto;
+    padding-top: 20px;
+    text-align: left;
+}
+.dotted {
+    border-style: dotted;
+    border-width: 5px 0 0 0;
+    width: 3%;
+    border-color: grey;
+    
+}
+.profile{
+    margin-bottom: 70px;
+}
+.copyright {
+    color: #eaf6f6;
+}
+
+.footer-link {
+    font-family: "Montserrat", serif;
+    margin: 2%;
+    color: #11999E;
+    text-decoration: none;
+}
+.contact-me-btn {
+    text-decoration: none;
+    background-color: #11999E;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: "Montserrat", serif;
+    position: relative;
+    top: 20px;
+}
